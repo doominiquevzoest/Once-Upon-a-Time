@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: IL3DN_Tree_Pine_Leaf
+  m_Name: cherry leaf
   m_Shader: {fileID: 4800000, guid: f437afc0dfb00a64680aee639387f5b4, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
